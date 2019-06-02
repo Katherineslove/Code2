@@ -606,14 +606,14 @@ h5 {
     height: 200px; }
 
   #nav {
-    width: 374px;
+    width: 366px;
     height: 68px;
-    left: 0px;
+    left: 4px;
     top: 5px; }
 
   #nav a {
     height: 72px;
-    width: 374px;
+    width: 367px;
     padding-top: 10px;
     padding-bottom: 20px;
     font-size: 32px; }
@@ -623,10 +623,11 @@ h5 {
 
   #menu {
     height: 644px;
-    width: 374px;
+    width: 365px;
     float: left;
-    left: 0px;
-    top: 9px; }
+    left: 5px;
+    top: 9px;
+    margin-bottom: 4px; }
 
   #snacks {
     width: 864px;
@@ -644,17 +645,18 @@ h5 {
     font-size: 45px; }
 
   .eggs {
-    margin-left: 7px;
+    margin-left: 0px;
     margin-top: 15px; }
 
   .eggsPrice {
-    left: 47%;
+    left: 55%;
     top: 39px; }
 
   .eggs form {
     font-size: 14px;
     top: 35px;
-    right: 12px; }
+    right: 30px;
+    width: 98px; }
 
   .eggs input {
     background-color: white;
@@ -662,21 +664,22 @@ h5 {
     border: 1px solid black; }
 
   .delete {
-    right: 18px;
+    right: 10px;
     top: 45px; }
 
   .garlic {
-    margin-left: 7px;
+    margin-left: 0px;
     margin-top: 15px; }
 
   .garlicPrice {
     top: 110px;
-    left: 47%; }
+    left: 55%; }
 
   .garlic form {
     font-size: 14px;
     top: 110px;
-    right: 12px; }
+    right: 30px;
+    width: 98px; }
 
   .garlic input {
     background-color: white;
@@ -684,21 +687,22 @@ h5 {
     border: 1px solid black; }
 
   .garlicDelete {
-    right: 18px;
+    right: 10px;
     top: 125px; }
 
   .bacon {
-    margin-left: 7px;
+    margin-left: 0px;
     margin-top: 15px; }
 
   .baconPrice {
-    left: 51%;
+    left: 55%;
     top: 169px; }
 
   .bacon form {
     font-size: 14px;
     top: 166px;
-    right: 7px; }
+    right: 30px;
+    width: 98px; }
 
   .bacon input {
     background-color: white;
@@ -706,21 +710,22 @@ h5 {
     border: 1px solid black; }
 
   .baconDelete {
-    right: 18px;
+    right: 10px;
     top: 178px; }
 
   .waffle {
-    margin-left: 7px;
+    margin-left: 0px;
     margin-top: 0px; }
 
   .wafflePrice {
     top: 260px;
-    left: 50%; }
+    left: 55%; }
 
   .waffle form {
     font-size: 14px;
     top: 257px;
-    right: 12px; }
+    right: 30px;
+    width: 98px; }
 
   .waffle input {
     background-color: white;
@@ -728,22 +733,23 @@ h5 {
     border: 1px solid black; }
 
   .waffleDelete {
-    right: 18px;
+    right: 10px;
     top: 270px; }
 
   .piri {
     width: 190px;
-    margin-left: 7px;
+    margin-left: 0px;
     margin-top: 15px; }
 
   .piriPrice {
-    left: 50%;
+    left: 55%;
     top: 320px; }
 
   .piri form {
     font-size: 14px;
     top: 320px;
-    right: 12px; }
+    right: 30px;
+    width: 98px; }
 
   .piri input {
     background-color: white;
@@ -751,22 +757,23 @@ h5 {
     border: 1px solid black; }
 
   .piriDelete {
-    right: 18px;
+    right: 10px;
     top: 330px; }
 
   .berry {
     width: 190px;
-    margin-left: 7px;
+    margin-left: 0px;
     margin-top: 15px; }
 
   .berryPrice {
-    left: 50%;
+    left: 55%;
     top: 418px; }
 
   .berry form {
     font-size: 14px;
     top: 418px;
-    right: 12px; }
+    right: 30px;
+    width: 98px; }
 
   .berry input {
     background-color: white;
@@ -774,21 +781,22 @@ h5 {
     border: 1px solid black; }
 
   .berryDelete {
-    right: 18px;
+    right: 10px;
     top: 430px; }
 
   .spag {
-    margin-left: 7px;
+    margin-left: 0px;
     margin-top: 15px; }
 
   .spagPrice {
-    left: 50%;
+    left: 55%;
     top: 521px; }
 
   .spag form {
     font-size: 14px;
     top: 521px;
-    right: 12px; }
+    right: 30px;
+    width: 98px; }
 
   .spag input {
     background-color: white;
@@ -796,16 +804,16 @@ h5 {
     border: 1px solid black; }
 
   .spagDelete {
-    right: 18px;
+    right: 10px;
     top: 535px; }
 
   #footer {
-    width: 374px;
+    width: 366px;
     left: -1px;
     bottom: 0px; }
 
   #footer a {
-    width: 187px;
+    width: 180px;
     height: 67px;
     font-size: 32px;
     padding-top: 7px; }
